@@ -5,4 +5,4 @@
 - 📫 You can get in touch with me through [Email](mailto:hjdealba96@gmail.com),
 [Skype](https://join.skype.com/invite/E2MGpgbgHfuo),
 [Telegram](https://t.me/hjdealba96)
- or you book 15 min call on [Calendly](https://calendly.com/hjdealba96/letsmeet).
+ or you can book a 15 min call on [Calendly](https://calendly.com/hjdealba96/letsmeet).
