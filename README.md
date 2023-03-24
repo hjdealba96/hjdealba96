@@ -1,4 +1,4 @@
-- 👋 Hi I'm Henry De Alba. Some mates call me Thierry Henry 🇫🇷, others Rygen and some others just Henry 😅
+- 👋 Hi I'm Henry De Alba
 - 📱 I'm an Android Dev
 - 🇪🇸 Spanish is my native language but also I have professional proficiency in English 🇺🇸 
 - 🌱 I'm learning Flutter
